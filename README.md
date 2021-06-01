@@ -1,7 +1,7 @@
 ###### [image source](https://www.stickpng.com/img/kitchenware/toothpicks/scattered-toothpicks)
 <div align=center>
     <!-- ./logo/Logo_Kaktusniki.png -->
-    <img src="./logo/Toothpick_2.png" width="370">
+    <img src="./images/Toothpick.png" width="370">
     <br /><br />
 </div>
 
